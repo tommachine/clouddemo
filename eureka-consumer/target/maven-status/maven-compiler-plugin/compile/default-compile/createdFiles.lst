@@ -1,0 +1,7 @@
+com\cafebabe\clouddemo\eureka\consumer\service\impl\OrderService.class
+com\cafebabe\clouddemo\eureka\consumer\config\EurekaConsumerConfig.class
+com\cafebabe\clouddemo\eureka\consumer\dao\OrderMapper.class
+com\cafebabe\clouddemo\eureka\consumer\Controller\OrderController.class
+com\cafebabe\clouddemo\eureka\consumer\service\impl\OrderServiceImpl.class
+com\cafebabe\clouddemo\eureka\consumer\entity\Order.class
+com\cafebabe\clouddemo\eureka\consumer\EurekaConsumerApplication.class

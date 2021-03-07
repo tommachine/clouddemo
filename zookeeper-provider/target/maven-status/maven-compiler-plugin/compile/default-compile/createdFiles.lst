@@ -1,0 +1,5 @@
+com\cafebabe\clouddemo\zookeeper\provider\Controller\PaymentController.class
+com\cafebabe\clouddemo\zookeeper\provider\service\impl\PaymentServiceImpl.class
+com\cafebabe\clouddemo\zookeeper\provider\service\PaymentService.class
+com\cafebabe\clouddemo\zookeeper\provider\dao\PaymentDao.class
+com\cafebabe\clouddemo\zookeeper\provider\ZookeeperProviderApplication.class

@@ -1,0 +1,18 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: cloud-order-service #服务名称
+  cloud:
+    zookeeper:
+      connect-string: 192.168.111.128:2181
+    config:
+      name: config-server
+      label: main
+      profile: dev
+      uri: http://localhost:8888
+    bootstrap:
+      enabled: true
+
+
+

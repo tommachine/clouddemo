@@ -1,0 +1,15 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: cloud-order-service #服务名称
+logging:
+  level:
+    com:
+     cafebabe:
+      clouddemo:
+       zookeeper:
+        consumer:
+         dao: debug
+
+

@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: eurekaserver
+server:
+  port: 7001
+
+logging:
+  config: classpath:log4j2.xml
+
+eureka:
+  instance:
+    hostname: eureka7001.com
+  client:
+    register-with-eureka: false #不向自己注册
+    fetch-registry: false #表示自己就是注册中心服务端，并不需要检索项目内的服务
+    service-url:
+      defaultZone: http://eureka7002.com:7002/eureka
+

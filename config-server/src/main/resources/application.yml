@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    zookeeper:
+      connect-string: 192.168.111.128:2181
+    config:
+      server:
+        git:
+          uri: https://github.com/tommachine/confighub.git #github地址
+      label: main #分支
+  application:
+    name: config-server
+  profiles:
+    active: dev
+
+server:
+  port: 8888
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud-common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-common-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-provider/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

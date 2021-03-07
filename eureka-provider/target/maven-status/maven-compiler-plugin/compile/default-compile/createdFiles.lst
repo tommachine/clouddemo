@@ -1,0 +1,5 @@
+com\cafebabe\clouddemo\eureka\provider\service\impl\PaymentServiceImpl.class
+com\cafebabe\clouddemo\eureka\provider\Controller\PaymentController.class
+com\cafebabe\clouddemo\eureka\provider\EurakaProviderApplication.class
+com\cafebabe\clouddemo\eureka\provider\service\PaymentService.class
+com\cafebabe\clouddemo\eureka\provider\dao\PaymentDao.class

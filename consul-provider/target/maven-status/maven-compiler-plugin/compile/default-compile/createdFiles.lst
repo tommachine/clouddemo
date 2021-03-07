@@ -1,0 +1,5 @@
+com\cafebabe\clouddemo\consul\provider\service\PaymentService.class
+com\cafebabe\clouddemo\consul\provider\service\impl\PaymentServiceImpl.class
+com\cafebabe\clouddemo\consul\provider\ConsulProviderApplication.class
+com\cafebabe\clouddemo\consul\provider\dao\PaymentDao.class
+com\cafebabe\clouddemo\consul\provider\Controller\PaymentController.class

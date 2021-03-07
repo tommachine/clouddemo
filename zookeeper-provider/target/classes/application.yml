@@ -1,0 +1,38 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: cloud-payment-service #服务名称
+  cloud:
+    zookeeper:
+      connect-string: 192.168.111.128:2181
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource  #当前数据源操作类型
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/clouddemo?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: qq13579..
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    jdbc-type-for-null: null
+logging:
+  config: classpath:log4j2.xml
+  level:
+    com:
+     cafebabe:
+      clouddemo:
+       zookeeper:
+        provider:
+         dao: debug
+    org:
+      springframework:
+        web: trace
+
+
+
+
